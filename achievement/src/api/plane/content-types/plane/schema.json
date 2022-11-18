@@ -1,0 +1,34 @@
+{
+  "kind": "collectionType",
+  "collectionName": "planes",
+  "info": {
+    "singularName": "plane",
+    "pluralName": "planes",
+    "displayName": "planes"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "plane": {
+      "type": "string"
+    },
+    "planepic": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "date": {
+      "type": "date"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}

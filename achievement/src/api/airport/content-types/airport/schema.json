@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "airports",
+  "info": {
+    "singularName": "airport",
+    "pluralName": "airports",
+    "displayName": "Airport"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Airport": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "richtext"
+    }
+  }
+}
