@@ -1,4 +1,10 @@
 # cpnt200-ach1
+CPNT200
+Achievement
+Darryl Becker
+
+username: tony.grimes@sait.ca
+password: P4ssword
 
 ### Assets
 KLM Plane Wing - https://unsplash.com/photos/5bwgW8_9OPs
